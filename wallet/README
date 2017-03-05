@@ -71,7 +71,7 @@ and switch to it. Use
 
 to download the necessary API level.
 
-Finally, you can build Peercoin Wallet and sign it with your development key. Again in your workspace,
+Finally, you can build EverGreenCoin Wallet and sign it with your development key. Again in your workspace,
 use
 
 	# first time only
@@ -114,7 +114,7 @@ Make sure you've got Eclipse Luna with ADT 23 installed.
 
 Use Git to check out the project and an Android library dependency to your workspace:
 
-	# clone Peercoin Wallet project
+	# clone EverGreenCoin Wallet project
 	git clone -b master https://github.Com.matthewmitchell/AndroidWallet.git peercoin-wallet
 
 	# clone ActionBarSherlock library project
@@ -138,7 +138,7 @@ Java Compiler -> Errors/Warnings -> Annotations -> Missing @Override annotation 
 
 NFC (Near field communication)
 
-Peercoin Wallet supports reading Peercoin requests via NFC, either from a passive NFC tag or from
+EverGreenCoin Wallet supports reading Evergreencoin requests via NFC, either from a passive NFC tag or from
 another NFC capable Android device that is requesting coins.
 
 For this to work, just enable NFC in your phone and hold your phone to the tag or device (with
@@ -152,18 +152,18 @@ Instructions for preparing an NFC tag with your address:
 
 - Some tags have less than 50 bytes capacity, those won't work. 1 KB tags recommended.
 
-- The tag needs to contain a Peercoin URI. You can construct one with the "Request coins" dialog,
+- The tag needs to contain a Evergreencoin URI. You can construct one with the "Request coins" dialog,
   then share with messaging or email. You can also construct the URI manually. Example for Mainnet:
   peercoin:1G2Y2jP5YFZ5RGk2PXaeWwbeA5y1ZtFhoL
 
 - The type of the message needs to be URI or URL (not Text).
 
 - If you put your tag at a public place, don't forget to enable write protect. Otherwise, someone
-  could overwrite the tag with his own Peercoin address.
+  could overwrite the tag with his own Evergreencoin address.
 
 PEERCOINJ
 
-peercoinj is used for Peercoin specific logic:
+peercoinj is used for Evergreencoin specific logic:
 
     https://github.com/MatthewLM/peercoinj
 

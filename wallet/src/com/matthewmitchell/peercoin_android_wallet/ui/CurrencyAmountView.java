@@ -45,7 +45,7 @@ import com.matthewmitchell.peercoinj.utils.MonetaryFormat;
 
 import com.matthewmitchell.peercoin_android_wallet.util.GenericUtils;
 import com.matthewmitchell.peercoin_android_wallet.util.MonetarySpannable;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import java.util.Arrays;
 
 /**

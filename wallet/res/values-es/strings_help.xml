@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte superior izquierda de la pantalla muestra su balance en Peercoins y en una moneda nacional que elija.
+			La parte superior izquierda de la pantalla muestra su balance en Evergreencoins y en una moneda nacional que elija.
 			Toque para ir a la lista de monedas nacionales, y toque en una de las monedas para seleccionarla como predeterminada.
 		</p>
 		<p>
-			El código QR en la derecha contiene su dirección de Peercoin y se puede usar para ser escaneada por alguien más.
+			El código QR en la derecha contiene su dirección de Evergreencoin y se puede usar para ser escaneada por alguien más.
 			Toque en el código QR para ver una versión más grande.
 		</p>
 		<p>
@@ -25,7 +25,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Mediante este cuadro de diálogo puedes solicitar peercoins de otra persona (que debería tener instalada Peercoin Wallet).
+			Mediante este cuadro de diálogo puedes solicitar peercoins de otra persona (que debería tener instalada EverGreenCoin Wallet).
 		</p>
 		<p>
 			En primer lugar, puedes introducir la cantidad de peercoins que se desea solicitar.
@@ -33,7 +33,7 @@
 		<p>
 			A continuación, puedes hacer que la otra persona explore el código QR generado,
 			o bien enviar tu solicitud a una persona remota mediante el botón de compartir de la barra de acciones.
-			La otra persona tendrá que acceder a la URL de Peercoin.
+			La otra persona tendrá que acceder a la URL de Evergreencoin.
 		</p>
 		<p>
 			En ambos casos, a la otra persona se le mostrará un cuadro de diálogo para enviar peercoins con todos los campos completados.
@@ -45,12 +45,12 @@
 <![CDATA[
 		<p>
 			Has iniciado el proceso de enviar peercoins.
-			Has llegado aquí bien a través de la pantalla principal o bien al acceder a una URL Peercoin en tu navegador móvil.
+			Has llegado aquí bien a través de la pantalla principal o bien al acceder a una URL Evergreencoin en tu navegador móvil.
 		</p>
 		<p>
-			En primer lugar, debes introducir la dirección Peercoin receptora del pago.
+			En primer lugar, debes introducir la dirección Evergreencoin receptora del pago.
 			La dirección se irá autocompletando con las entradas conocidas de la libreta de direcciones.
-			También puedes explorar códigos QR con direcciones Peercoin o solicitudes de peercoins pulsando el botón QR de la barra de acciones.
+			También puedes explorar códigos QR con direcciones Evergreencoin o solicitudes de peercoins pulsando el botón QR de la barra de acciones.
 		</p>
 		<p>
 			A continuación, podrás ver cuántos peercoins puedes gastar en este momento.
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Puedes llevar a cabo una transacción sin conexión.
-			Se enviará la siguiente vez que se reinicie Peercoin Wallet.
+			Se enviará la siguiente vez que se reinicie EverGreenCoin Wallet.
 			Si quieres que se procese una transacción lo más rápido posible, asegúrate de tener una buena conexión (WLAN).
 		</p>
 		<p>
@@ -77,12 +77,12 @@
 			<b>Algunos comentarios sobre la seguridad de tus peercoins:</b>
 		</p>
 		<p>
-			Los peercoins en Peercoin Wallet se almacenan en el dispositivo.
+			Los peercoins en EverGreenCoin Wallet se almacenan en el dispositivo.
 			<b>Si pierdes tu dispositivo, pierdes tus peercoins.</b>
 			Esto es lo mismo que ocurriría con tu dinero en una cartera convencional.
 		</p>
 		<p>
-			<b>Antes de desinstalar Peercoin Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus peercoins a otra cartera</b>.
+			<b>Antes de desinstalar EverGreenCoin Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus peercoins a otra cartera</b>.
 			Los peercoins que queden en el dispositivo se perderán.
 		</p>
 		<p>
@@ -96,7 +96,7 @@
 		</p>
 		<p>
 			¡Minimiza el riesgo!
-			<b>Utiliza Peercoin Wallet solamente para cantidades pequeñas</b> de uso diario.
+			<b>Utiliza EverGreenCoin Wallet solamente para cantidades pequeñas</b> de uso diario.
 		</p>
 	]]>
 	</string>

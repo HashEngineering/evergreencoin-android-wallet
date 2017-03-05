@@ -1,6 +1,6 @@
-## Welcome to _Peercoin Wallet_
+## Welcome to _EverGreenCoin Wallet_
 
-__What is _Peercoin Wallet_?__
+__What is _EverGreenCoin Wallet_?__
 
 It is a standalone Peercoin payment app for your Android device!
 
@@ -26,6 +26,6 @@ __You can build all sub-projects at once using Maven:__
 
 __Donate to support further development:__
 
-You can donate peercoins to support further development of _Peercoin Wallet_ at [http://peer4commit.com/projects/129/](http://peer4commit.com/projects/129/)
+You can donate peercoins to support further development of _EverGreenCoin Wallet_ at [http://peer4commit.com/projects/129/](http://peer4commit.com/projects/129/)
 Peer4commit will distribute rewards to people that get pull requests merged into the source code.
 [![tip for next commit](http://peer4commit.com/projects/129.svg)](http://peer4commit.com/projects/129)

@@ -90,7 +90,7 @@ import com.matthewmitchell.peercoin_android_wallet.util.Iso8601Format;
 import com.matthewmitchell.peercoin_android_wallet.util.Nfc;
 import com.matthewmitchell.peercoin_android_wallet.util.WalletUtils;
 import com.matthewmitchell.peercoin_android_wallet.util.WholeStringBuilder;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import com.matthewmitchell.peercoin_android_wallet.ui.RestoreWalletTask.CloseAction;
 import com.matthewmitchell.peercoinj.utils.MonetaryFormat;
 import java.io.BufferedWriter;
@@ -566,7 +566,7 @@ public final class WalletActivity extends AbstractWalletActivity
 		if (Constants.Files.EXTERNAL_WALLET_BACKUP_DIR.exists() && Constants.Files.EXTERNAL_WALLET_BACKUP_DIR.isDirectory())
 			for (final File file : Constants.Files.EXTERNAL_WALLET_BACKUP_DIR.listFiles()) {
 				
-				if (!file.getName().contains("peercoin"))
+				if (!file.getName().contains("evergreencoin"))
 					continue;
 				
 				if (WalletUtils.BACKUP_FILE_FILTER.accept(file) || WalletUtils.KEYS_FILE_FILTER.accept(file)

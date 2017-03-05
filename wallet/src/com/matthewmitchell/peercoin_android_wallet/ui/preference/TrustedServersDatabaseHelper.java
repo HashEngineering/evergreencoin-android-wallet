@@ -23,7 +23,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import java.util.Locale;
 
 /**
@@ -43,8 +43,8 @@ public class TrustedServersDatabaseHelper extends SQLiteOpenHelper {
     private static final String FIELD_URL =   "url";
     private static final String FIELD_EQUAL = "equal";
 
-    public static final String DEFAULT_SERVER_NEW_YORK = "https://peercoinexplorer.info/q/getvalidhashes";
-	public static final String DEFAULT_SERVER_LONDON = "https://london.getvalidhashes.com/peercoin";
+    public static final String DEFAULT_SERVER_NEW_YORK = "http://vps104674.vps.ovh.ca:4001/chain/EverGreenCoin/q/getvalidhashes";
+	public static final String DEFAULT_SERVER_LONDON = "http://vps104674.vps.ovh.ca:4001/chain/EverGreenCoin/q/getvalidhashes";
 
     private final Context context;
 

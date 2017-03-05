@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import com.matthewmitchell.peercoin_android_wallet.ui.preference.TrustedServer.ServerStatus;
 import com.matthewmitchell.peercoinj.store.ValidHashStore.TrustedServersInterface;
 import java.net.MalformedURLException;

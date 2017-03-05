@@ -42,7 +42,7 @@ import android.os.Handler;
 import android.os.Looper;
 import com.matthewmitchell.peercoin_android_wallet.Constants;
 import com.matthewmitchell.peercoin_android_wallet.util.Bluetooth;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

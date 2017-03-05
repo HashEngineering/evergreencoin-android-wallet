@@ -18,7 +18,7 @@
 package com.matthewmitchell.peercoin_android_wallet.ui;
 
 import com.matthewmitchell.peercoin_android_wallet.WalletApplication;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

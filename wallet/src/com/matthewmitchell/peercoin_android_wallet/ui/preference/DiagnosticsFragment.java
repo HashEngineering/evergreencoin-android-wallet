@@ -36,7 +36,7 @@ import com.matthewmitchell.peercoin_android_wallet.WalletApplication;
 import com.matthewmitchell.peercoin_android_wallet.ui.DialogBuilder;
 import com.matthewmitchell.peercoin_android_wallet.ui.ReportIssueDialogBuilder;
 import com.matthewmitchell.peercoin_android_wallet.util.CrashReporter;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

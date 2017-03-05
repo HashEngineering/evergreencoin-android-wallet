@@ -30,7 +30,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Käyttämällä tätä dialogia, voit pyytää peercoineja toiselta henkilöltä, jolla pitäisi jo olla Peercoin Wallet asennettuna.
+			Käyttämällä tätä dialogia, voit pyytää peercoineja toiselta henkilöltä, jolla pitäisi jo olla EverGreenCoin Wallet asennettuna.
 		</p>
 		<p>
 			Ensiksi, voit syöttää jonkun määrän peercoineja, joita pyydät.
@@ -67,7 +67,7 @@
 		</p>
 		<p>
 			Voit asettaa maksun olematta verkossa, eli ollessasi offlinessa.
-			Se lähetetään käynnistäessäsi Peercoin Wallet:in uudestaan seuraavan kerran.
+			Se lähetetään käynnistäessäsi EverGreenCoin Wallet:in uudestaan seuraavan kerran.
 			Jos haluat maksun menevän mahdollisimman nopeasti, varmista, että sinulla on hyvä yhteys (kuten WLAN).
 		</p>
 		<p>
@@ -83,7 +83,7 @@
 			<b>Tärkeitä turvallisuus huomioita:</b>
 		</p>
 		<p>
-			Peercoinit sijaitsevat laitteessasi.
+			Evergreencoinit sijaitsevat laitteessasi.
 			<b>Jos hukkaat sen, menetät peercoinisi.</b>
 		</p>
 		<p>

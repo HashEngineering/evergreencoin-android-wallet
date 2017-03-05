@@ -25,7 +25,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Med denna dialog kan du ta emot peercoin från någon annan (som redan har Peercoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot peercoin från någon annan (som redan har EverGreenCoin Wallet installerad på sin telefon).
 		</p>
 		<p>
 			Först anger du hur många peercoin du vill att de skickar.
@@ -33,7 +33,7 @@
 		<p>
 			Sedan kan den andra personen scanna QR-koden.
 			Eller så använder du \"Dela\" knappen i aktivitetslistan för att skicka din uppmaning att skicka peercoin.
-			Den andra personen behöver sedan bara klicka på den Peercoin-URL du skickat.
+			Den andra personen behöver sedan bara klicka på den Evergreencoin-URL du skickat.
 		</p>
 		<p>
 			Sedan kommer den andra personen att få se en dialogruta där alla fält redan är ifyllda.
@@ -45,12 +45,12 @@
 <![CDATA[
 		<p>
 			Du har påbörjat skickandet av peercoin.
-			Du kom hit från huvudskärmen eller genom att klicka på en Peercoin-URL i din webbläsare.
+			Du kom hit från huvudskärmen eller genom att klicka på en Evergreencoin-URL i din webbläsare.
 		</p>
 		<p>
-			Ange först vilken Peercoin adress du vill skicka till.
+			Ange först vilken Evergreencoin adress du vill skicka till.
 			Adressen kan automatiskt fyllas i om den börjar med någon av adresserna i din adressbok.
-			Du kan också scanna en QR-kod innehållande en Peercoin-adress, genom att trycka på QR knappen i aktivitetslistan.
+			Du kan också scanna en QR-kod innehållande en Evergreencoin-adress, genom att trycka på QR knappen i aktivitetslistan.
 		</p>
 		<p>
 			Sedan kan du se hur många peercoin du för tillfället kan skicka.
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång Peercoin Wallet startas.
+			Den kommer att skickas nästa gång EverGreenCoin Wallet startas.
 			Om du vill att en transaktion ska hanteras så fort som möjligt, se till att ha bra uppkoppling till internet (exempelvis ett WLAN).
 		</p>
 		<p>
@@ -77,12 +77,12 @@
 			<b>Några ord om säkerhet och peercoin:</n>
 		</p>
 		<p>
-			Dina peercoin i Peercoin Wallet sparas på din Android telefon.
+			Dina peercoin i EverGreenCoin Wallet sparas på din Android telefon.
 			<b>Om du tappar bort din telefon, så tappar du bort dina peercoin.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar Peercoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina peercoin till en annan wallet</b>.
+			<b>Innan du avinstallerar EverGreenCoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina peercoin till en annan wallet</b>.
 			Alla kvarvarande peercoin kommer att försvinna.
 		</p>
 		<p>
@@ -96,7 +96,7 @@
 		</p>
 		<p>
 			Utsätt dig inte för onödig risk!
-			<b>Använd bara Peercoin Wallet med mindre belopp</b> för daglig användning.
+			<b>Använd bara EverGreenCoin Wallet med mindre belopp</b> för daglig användning.
 		</p>
 	]]>
 	</string>

@@ -27,7 +27,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import com.matthewmitchell.peercoin_android_wallet.ui.TransactionsListFragment.Direction;
 import com.matthewmitchell.peercoin_android_wallet.util.ViewPagerTabs;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

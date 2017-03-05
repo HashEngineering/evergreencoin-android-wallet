@@ -3,38 +3,38 @@
 
 	<string name="toast_wallet_reset">Το πορτοφόλι έχει αποκατασταθεί,\nθα πάρει κάποιο χρόνο για την ανάκτηση</string>
 	<string name="wallet_disclaimer_fragment_remind_safety">Χρησιμοποιήστε με δική σας ευθύνη. Διαβάστε τις οδηγίες ασφαλείας</string>
-	<string name="wallet_address_fragment_clipboard_msg">H Peercoin διεύθυνή αντιγράφικε στο clipboard</string>
+	<string name="wallet_address_fragment_clipboard_msg">H Evergreencoin διεύθυνή αντιγράφικε στο clipboard</string>
 	<string name="exchange_rates_fragment_empty_text">Δεν ήταν δυνατή η φόρτωση των συναλλαγματικών ισοτιμιών</string>
 	<string name="wallet_transactions_fragment_tab_received">Ελήφθη</string>
 	<string name="wallet_transactions_fragment_tab_all">Και τα δύο</string>
 	<string name="wallet_transactions_fragment_tab_sent">Εστάλη</string>
-	<string name="wallet_transactions_fragment_empty_text_received">Δεν έχει ληφθεί κάποιο Peercoin μέχρι στιγμής</string>
-	<string name="wallet_transactions_fragment_empty_text_sent">Δεν έχει ληφθεί σταλεί Peercoin μέχρι στιγμής</string>
+	<string name="wallet_transactions_fragment_empty_text_received">Δεν έχει ληφθεί κάποιο Evergreencoin μέχρι στιγμής</string>
+	<string name="wallet_transactions_fragment_empty_text_sent">Δεν έχει ληφθεί σταλεί Evergreencoin μέχρι στιγμής</string>
 	<string name="wallet_options_safety">Οδηγίες ασφαλείας</string>
 	<string name="wallet_options_donate">Δωρίστε</string>
 	<string name="wallet_low_storage_dialog_title">Η εσωτερική μνήμη της συσκευής είναι χαμηλή!</string>
-	<string name="wallet_low_storage_dialog_msg">Το πορτοφόλι Peercoin χρησιμοποιεί την εσωτερική μνήμη για να θυμάται τις συναλλαγές και τα μπλοκ. Αν ξεμείνει από
-χώρο, θα σταματήσει να λειτουργεί και τα Peercoins σας θα είναι σε κίνδυνο! \n\nΘέλετε να ανοίξετε τη Διαχείριση εφαρμογών, προκειμένου να
+	<string name="wallet_low_storage_dialog_msg">Το πορτοφόλι Evergreencoin χρησιμοποιεί την εσωτερική μνήμη για να θυμάται τις συναλλαγές και τα μπλοκ. Αν ξεμείνει από
+χώρο, θα σταματήσει να λειτουργεί και τα Evergreencoins σας θα είναι σε κίνδυνο! \n\nΘέλετε να ανοίξετε τη Διαχείριση εφαρμογών, προκειμένου να
 απεγκατάσταση αχρείαστες εφαρμογές;</string>
 	<string name="wallet_low_storage_dialog_button_apps">Διαχείριση των Εφαρμογών</string>
-	<string name="send_coins_activity_title">Αποστολή Peercoins</string>
+	<string name="send_coins_activity_title">Αποστολή Evergreencoins</string>
 	<string name="send_coins_fragment_receiving_address_label">Πληρωμή σε</string>
 	<string name="send_coins_fragment_receiving_address_hint">πληκτρολογήστε τη διεύθυνση ή το όνομα</string>
-	<string name="send_coins_fragment_receiving_address_error">Άκυρα Διεύθυνση Peercoin!</string>
+	<string name="send_coins_fragment_receiving_address_error">Άκυρα Διεύθυνση Evergreencoin!</string>
 	<string name="send_coins_fragment_pending">(%s αναμονή για την επιβεβαίωση)</string>
 	<string name="send_coins_fragment_amount_label">Ποσό να πληρωθεί</string>
 	<string name="send_coins_fragment_button_send">Αποστολή</string>
 	<string name="send_coins_sending_msg">Αποστολή…</string>
 	<string name="send_coins_error_msg">Πρόβλημα στην αποστολή κερμάτων!</string>
-	<string name="request_coins_activity_title">Αίτηση για Peercoins</string>
+	<string name="request_coins_activity_title">Αίτηση για Evergreencoins</string>
 	<string name="request_coins_fragment_amount_label">Ζητούμενο ποσό (προαιρετικό)</string>
 	<string name="request_coins_fragment_initiate_request_qr">Δώστε αυτό το κώδικα στον αποστολέα, για να το σαρώσει.</string>
 	<string name="request_coins_fragment_initiate_request_nfc">Ή φερετε σε επαφή αν έχετε συσκευή με NFC.</string>
-	<string name="request_coins_clipboard_msg">η αίτηση για Peercoin αντιγράφηκε στο clipboard</string>
-	<string name="request_coins_share_dialog_title">request for sharing Peercoins…</string>
+	<string name="request_coins_clipboard_msg">η αίτηση για Evergreencoin αντιγράφηκε στο clipboard</string>
+	<string name="request_coins_share_dialog_title">request for sharing Evergreencoins…</string>
 	<string name="address_book_activity_title">Κατάλαγος διευθύνσεων</string>
 	<string name="address_book_empty_text">δεν υπάρχουν καταχωρήσεις στον kατάλαγο διευθύνσεων</string>
-	<string name="address_book_context_send_title">Αποστολή Peercoins στη διεύθυνση</string>
+	<string name="address_book_context_send_title">Αποστολή Evergreencoins στη διεύθυνση</string>
 	<string name="address_book_context_edit_title">Επεξεργασία διεύθυνσης</string>
 	<string name="address_book_context_remove_title">Αφαιρέστε τη διεύθυνση</string>
 	<string name="address_book_context_copy_to_clipboard_title">Αντιγραφή στο clipboard</string>

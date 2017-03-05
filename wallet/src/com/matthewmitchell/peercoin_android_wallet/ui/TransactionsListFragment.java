@@ -78,7 +78,7 @@ import com.matthewmitchell.peercoin_android_wallet.util.BitmapFragment;
 import com.matthewmitchell.peercoin_android_wallet.util.Qr;
 import com.matthewmitchell.peercoin_android_wallet.util.ThrottlingWalletChangeListener;
 import com.matthewmitchell.peercoin_android_wallet.util.WalletUtils;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

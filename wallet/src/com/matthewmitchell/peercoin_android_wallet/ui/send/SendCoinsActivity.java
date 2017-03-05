@@ -28,7 +28,7 @@ import android.view.MenuItem;
 import com.matthewmitchell.peercoin_android_wallet.data.PaymentIntent;
 import com.matthewmitchell.peercoin_android_wallet.ui.AbstractBindServiceActivity;
 import com.matthewmitchell.peercoin_android_wallet.ui.HelpDialogFragment;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

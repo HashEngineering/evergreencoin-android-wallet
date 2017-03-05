@@ -4,7 +4,7 @@
 	<string name="symbol_to">→</string>
 	<string name="symbol_from">←</string>
 	<string name="symbol_internal">⇄</string>
-	<string name="app_name">Peercoin</string>
+	<string name="app_name">EverGreenCoin</string>
 
 	<string-array name="preferences_precision_values">
 		<item>6</item>
@@ -13,10 +13,10 @@
 		<item>0/6</item>
 	</string-array>
 	<string-array name="preferences_precision_labels">
-		<item>PPC, 6 digits</item>
-		<item>PPC, 4 digits</item>
-		<item>mPPC, 2 digits</item>
-		<item>µPPC, no digits</item>
+		<item>EGC, 6 digits</item>
+		<item>EGC, 4 digits</item>
+		<item>mEGC, 2 digits</item>
+		<item>µEGC, no digits</item>
 	</string-array>
 
 </resources>

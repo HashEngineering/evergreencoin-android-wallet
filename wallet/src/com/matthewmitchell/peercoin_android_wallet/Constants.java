@@ -27,7 +27,7 @@ import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
 
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
@@ -45,25 +45,25 @@ public final class Constants
 		public static final String WALLET_FILENAME_PROTOBUF_OLD = "wallet-protobuf";
 	    
 		/** Filename of the wallet. */
-		public static final String WALLET_FILENAME_PROTOBUF = "peercoin-wallet-protobuf";
+		public static final String WALLET_FILENAME_PROTOBUF = "evergreencoin-wallet-protobuf";
 
 		/** Filename of the automatic key backup (old format, can only be read). */
-		public static final String WALLET_KEY_BACKUP_BASE58 = "peercoin-key-backup-base58";
+		public static final String WALLET_KEY_BACKUP_BASE58 = "evergreencoin-key-backup-base58";
 
 		/** Filename of the automatic wallet backup. */
-		public static final String WALLET_KEY_BACKUP_PROTOBUF = "peercoin-key-backup-protobuf";
+		public static final String WALLET_KEY_BACKUP_PROTOBUF = "evergreencoin-key-backup-protobuf";
 
 		/** Manual backups go here. */
 		public static final File EXTERNAL_WALLET_BACKUP_DIR = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
 
 		/** Filename of the manual key backup (old format, can only be read). */
-		public static final String EXTERNAL_WALLET_KEY_BACKUP = "peercoin-wallet-keys";
+		public static final String EXTERNAL_WALLET_KEY_BACKUP = "evergreencoin-wallet-keys";
 
 		/** Filename of the manual wallet backup. */
-		public static final String EXTERNAL_WALLET_BACKUP = "peercoin-wallet-backup";
+		public static final String EXTERNAL_WALLET_BACKUP = "evergreencoin-wallet-backup";
 
         /** Filename of exported transactions. */
-        public static final String TX_EXPORT_NAME = "peercoin-transactions";
+        public static final String TX_EXPORT_NAME = "evergreencoin-transactions";
 
 		/** Filename of the block store for storing the chain. */
 		public static final String BLOCKCHAIN_FILENAME = "blockchain";
@@ -81,10 +81,10 @@ public final class Constants
 	public static final String VERSION_URL = "";
 
 	/** MIME type used for transmitting single transactions. */
-	public static final String MIMETYPE_TRANSACTION = "application/x-ppctx";
+	public static final String MIMETYPE_TRANSACTION = "application/x-evgtx";
 
 	/** MIME type used for transmitting wallet backups. */
-	public static final String MIMETYPE_WALLET_BACKUP = "application/x-peercoin-wallet-backup";
+	public static final String MIMETYPE_WALLET_BACKUP = "application/x-evergreencoin-wallet-backup";
 
     /** MIME type used for transaction export. */
     public static final String MIMETYPE_TX_EXPORT = "text/csv";
@@ -93,16 +93,16 @@ public final class Constants
 	public static final int MAX_NUM_CONFIRMATIONS = 7;
 
 	/** User-agent to use for network access. */
-	public static final String USER_AGENT = "Peercoin Wallet";
+	public static final String USER_AGENT = "EverGreenCoin Wallet";
 
 	/** Default currency to use if all default mechanisms fail. */
 	public static final String DEFAULT_EXCHANGE_CURRENCY = "USD";
 
 	/** Donation address for tip/donate action. */
-	public static final String DONATION_ADDRESS = "PNY8FPHRY8NM8VG77TXZ4R3WY7QJ25ATG6";
+	public static final String DONATION_ADDRESS = "EN4bR4ABbMmaqxHRrY4rPuX9iAUpJ2ghab";
 
 	/** Recipient e-mail address for reports. */
-	public static final String REPORT_EMAIL = "matthewmitchell@thelibertyportal.com";
+	public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
 
 	/** Subject line for manually reported issues. */
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
@@ -122,8 +122,8 @@ public final class Constants
 
 	public static final MonetaryFormat LOCAL_FORMAT = new MonetaryFormat().noCode().minDecimals(2).optionalDecimals();
 
-	public static final String SOURCE_URL = "https://github.com/MatthewLM/peercoin-android-wallet";
-	public static final String BINARY_URL = "https://github.com/MatthewLM/peercoin-android-wallet/releases";
+	public static final String SOURCE_URL = "https://github.com/HashEngineering/evergreencoin-android-wallet";
+	public static final String BINARY_URL = "https://github.com/HashEngineering/evergreencoin-android-wallet/releases";
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
 

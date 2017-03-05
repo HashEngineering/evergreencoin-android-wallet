@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="com.matthewmitchell.peercoin_android_wallet"
+	package="hashengineering.evergreencoin.wallet"
 	android:installLocation="internalOnly"
 	android:versionCode="12"
 	android:versionName="3.1" >
@@ -56,6 +56,7 @@
 	<application
 		android:name="com.matthewmitchell.peercoin_android_wallet.WalletApplication"
 		android:allowBackup="false"
+		android:debuggable="true"
 		android:icon="@drawable/app_icon"
 		android:label="@string/app_name"
 		android:theme="@style/My.Theme">
@@ -75,7 +76,7 @@
 			<intent-filter>
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:mimeType="application/x-ppctx" />
+				<data android:mimeType="application/x-evgtx" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
@@ -90,7 +91,7 @@
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.intent.action.VIEW" />
 
-				<data android:scheme="ppcoin" />
+				<data android:scheme="evergreencoin" />
 
                 <!-- SHAPESHIFT URIS -->
                 <data android:scheme="bitcoin" />
@@ -127,21 +128,21 @@
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:scheme="ppcoin" />
+				<data android:scheme="evergreencoin" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.intent.action.VIEW" />
 
-				<data android:mimeType="application/peercoin-paymentrequest" />
+				<data android:mimeType="application/evergreencoin-paymentrequest" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:mimeType="application/peercoin-paymentrequest" />
+				<data android:mimeType="application/evergreencoin-paymentrequest" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
@@ -192,7 +193,7 @@
 
 				<category android:name="android.intent.category.DEFAULT" />
 
-				<data android:mimeType="application/x-peercoin-wallet-backup" />
+				<data android:mimeType="application/x-evergreencoin-wallet-backup" />
 				<data android:mimeType="application/octet-stream" />
 			</intent-filter>
 		</activity>
@@ -206,21 +207,21 @@
 
 		<provider
 			android:name="com.matthewmitchell.peercoin_android_wallet.AddressBookProvider"
-			android:authorities="com.matthewmitchell.peercoin_android_wallet.address_book"
+			android:authorities="hashengineering.evergreencoin.wallet.address_book"
 			android:exported="false" />
 		<provider
 			android:name="com.matthewmitchell.peercoin_android_wallet.ExchangeRatesProvider"
-			android:authorities="com.matthewmitchell.peercoin_android_wallet.exchange_rates"
+			android:authorities="hashengineering.evergreencoin.wallet.exchange_rates"
 			android:exported="false" />
 		<provider
 			android:name="com.matthewmitchell.peercoin_android_wallet.FileAttachmentProvider"
-			android:authorities="com.matthewmitchell.peercoin_android_wallet.file_attachment"
+			android:authorities="hashengineering.evergreencoin.wallet.file_attachment"
 			android:exported="false"
 			android:grantUriPermissions="true" />
 
 		<receiver
 			android:name="com.matthewmitchell.peercoin_android_wallet.WalletBalanceWidgetProvider"
-			android:label="Peercoin Wallet Balance" >
+			android:label="EverGreenCoin Wallet Balance" >
 			<intent-filter>
 				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
 			</intent-filter>

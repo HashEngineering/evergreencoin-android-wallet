@@ -35,7 +35,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import com.mobeta.android.dslv.DragSortListView;
 
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import com.matthewmitchell.peercoin_android_wallet.ui.ConfirmationDialogFragment;
 import com.matthewmitchell.peercoin_android_wallet.ui.HelpDialogFragment;
 import com.matthewmitchell.peercoin_android_wallet.ui.preference.TrustedServer.ServerStatus;

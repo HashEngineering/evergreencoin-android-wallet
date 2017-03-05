@@ -62,7 +62,7 @@ import com.matthewmitchell.peercoin_android_wallet.Constants;
 import com.matthewmitchell.peercoin_android_wallet.data.PaymentIntent;
 import com.matthewmitchell.peercoin_android_wallet.util.Io;
 import com.matthewmitchell.peercoin_android_wallet.util.Qr;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import com.matthewmitchell.peercoinj.params.MainNetParams;
 import java.util.Arrays;
 
@@ -85,7 +85,7 @@ public abstract class InputParser
         @Override
         public void parse()
         {
-            if (input.startsWith("ppcoin:-"))
+            if (input.startsWith("evergreencoin:-"))
             {
                 try
                 {
@@ -112,7 +112,7 @@ public abstract class InputParser
                     error(R.string.input_parser_invalid_paymentrequest, x.getMessage());
                 }
             }
-            else if (input.startsWith("ppcoin:"))
+            else if (input.startsWith("evergreencoin:"))
             {
                 try
                 {
@@ -125,7 +125,7 @@ public abstract class InputParser
                 }
                 catch (final PeercoinURIParseException x)
                 {
-                    log.info("got invalid peercoin uri: '" + input + "'", x);
+                    log.info("got invalid evergreencoin uri: '" + input + "'", x);
 
                     error(R.string.input_parser_invalid_peercoin_uri, input);
                 }

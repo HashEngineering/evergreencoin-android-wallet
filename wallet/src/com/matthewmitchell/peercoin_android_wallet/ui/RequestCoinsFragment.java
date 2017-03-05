@@ -79,7 +79,7 @@ import com.matthewmitchell.peercoin_android_wallet.util.BitmapFragment;
 import com.matthewmitchell.peercoin_android_wallet.util.Bluetooth;
 import com.matthewmitchell.peercoin_android_wallet.util.Nfc;
 import com.matthewmitchell.peercoin_android_wallet.util.Qr;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
@@ -415,7 +415,7 @@ public final class RequestCoinsFragment extends Fragment implements NfcAdapter.C
 	private void handleCopy()
 	{
 		final Uri request = Uri.parse(determinePeercoinRequestStr(false));
-		clipboardManager.setPrimaryClip(ClipData.newRawUri("Peercoin payment request", request));
+		clipboardManager.setPrimaryClip(ClipData.newRawUri("Evergreencoin payment request", request));
 		log.info("payment request copied to clipboard: {}", request);
 		activity.toast(R.string.request_coins_clipboard_msg);
 	}

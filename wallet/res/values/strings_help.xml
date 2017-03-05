@@ -4,7 +4,7 @@
     <string name="help_wallet">
         <![CDATA[
         <p>
-            The upper left part of the screen displays your balance in Peercoins and one selected national currency.
+            The upper left part of the screen displays your balance in Evergreencoins and one selected national currency.
             Tap to go to the list of national currencies, and tap on one of the currencies to select it as default.
         </p>
         <p>
@@ -26,15 +26,15 @@
     <string name="help_request_coins">
         <![CDATA[
         <p>
-            Using this dialog, you can request coins from another person (who should already have installed Peercoin Wallet).
+            Using this dialog, you can request coins from another person (who should already have installed EverGreenCoin Wallet).
         </p>
         <p>
-            First, you can enter an amount of Peercoins to request.
+            First, you can enter an amount of Evergreencoins to request.
         </p>
         <p>
             Then, you either have the generated QR code scanned by the other person.
             Or, you can send your request to a remote person with the share button in the action bar.
-            The other person will have to click the Peercoin URL.
+            The other person will have to click the Evergreencoin URL.
         </p>
         <p>
             Either way, the other person will be presented a dialog for sending coins with all fields pre-populated.
@@ -49,25 +49,25 @@
             You came here either through the main screen or by clicking on a payment URI in your mobile browser.
         </p>
         <p>
-            First, you specify the Peercoin or supported ShapeShift coin address to pay to.
+            First, you specify the Evergreencoin or supported ShapeShift coin address to pay to.
             The address will autocomplete from known entries in your address book.
             You can also scan QR codes with addresses or requests by pressing the QR button in the action bar.
         </p>
         <p>
-            You can specify a destination coin from the dropdown menu. You can specify the amount in Peercoin or your 
-            local currency. If the coin is not Peercoin, the transfer will be made using ShapeShift. For ShapeShift coins 
+            You can specify a destination coin from the dropdown menu. You can specify the amount in Evergreencoin or your
+            local currency. If the coin is not Evergreencoin, the transfer will be made using ShapeShift. For ShapeShift coins
             the rate and foreign amount will be estimated unless you specify an exact foreign amount.
         </p>
         <p>
             You can enter a payment while being offline.
-            It will be sent on next restart of Peercoin Wallet.
+            It will be sent on next restart of EverGreenCoin Wallet.
             If you want a payment to be processed as fast as possible, make sure you are well connected (i.e. on a WLAN).
         </p>
         <p>
             Note:
             Payments are irreversible!
             Always check the receiving address.
-            The third-party ShapeShift API is used to send to coins other than Peercoin. There is no guarentee that ShapeShift 
+            The third-party ShapeShift API is used to send to coins other than Evergreencoin. There is no guarentee that ShapeShift
             will function correctly, or at all.
         </p>
         ]]>
@@ -78,8 +78,8 @@
             <b>Important safety notes:</b>
         </p>
         <p>
-            Peercoins are stored on the device.
-            <b>If you lose it, you\'ll lose your Peercoins.</b>
+            Evergreencoins are stored on the device.
+            <b>If you lose it, you\'ll lose your Evergreencoins.</b>
         </p>
         <p>
             This means you need to <b>back up your wallet</b>!
@@ -87,12 +87,12 @@
             Keep your backup safe and remember the password.
         </p>
         <p>
-            <b>Before uninstalling</b> (or clearing app data/wiping your device), <b>transfer your Peercoins to another wallet</b>.
-            Remaining Peercoins will be lost.
+            <b>Before uninstalling</b> (or clearing app data/wiping your device), <b>transfer your Evergreencoins to another wallet</b>.
+            Remaining Evergreencoins will be lost.
         </p>
         <p>
             <b>Payments are irreversible</b>.
-            If you send your Peercoins into the void, there is almost no way to get them back.
+            If you send your Evergreencoins into the void, there is almost no way to get them back.
         </p>
         <p>
             <b>Keep your mobile device safe!</b>

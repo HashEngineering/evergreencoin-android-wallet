@@ -3,7 +3,7 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La partie supérieure gauche de l\'écran affiche votre solde en Peercoins ainsi qu\'une devise locale sélectionnée.
+			La partie supérieure gauche de l\'écran affiche votre solde en Evergreencoins ainsi qu\'une devise locale sélectionnée.
 			Tapez sur le solde pour afficher la liste de toutes les devises locales et tapez sur l\'une d\'entre elles pour en faire la devise locale par défaut.
 		</p>
 		 <p>
@@ -25,7 +25,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			En utilisant cette zone de dialogue vous pouvez demander des pièces à une autre personne (qui devrait déjà avoir installé le Peercoin Wallet).
+			En utilisant cette zone de dialogue vous pouvez demander des pièces à une autre personne (qui devrait déjà avoir installé le EverGreenCoin Wallet).
 		</p>
 		<p>
 			Vous pouvez d\'abord saisir un montant de peercoins à demander.
@@ -47,7 +47,7 @@
 			Vous êtes arrivé ici depuis l\'écran principal ou en cliquant sur une URL peercoin dans votre navigateur.
 		</p>
 		<p>
-			D\'abord, saisir l\'adresse Peercoin de destination.
+			D\'abord, saisir l\'adresse Evergreencoin de destination.
 			L\'adresse sera complétée automatiquement pour les adresses enregistrées dans votre carnet.
 			Vous pouvez aussi numériser des codes QR avec des adresses peercoin ou des demandes de peercoins en pressant le bouton QR dans la barre des actions.
 		</p>
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Vous pouvez saisir un paiement hors-ligne.
-			Il sera envoyé au prochain lancement du Peercoin Wallet.
+			Il sera envoyé au prochain lancement du EverGreenCoin Wallet.
 			Pour le traitement le plus rapide possible de votre paiement, assurez vous d\'être bien connecté (c.-à-d. sur un WLAN).
 		</p>
 		<p>
@@ -85,7 +85,7 @@
 			Gardez votre sauvegarde en sûreté et souvenez-vous de votre mot de passe.
 		</p>
 		<p>
-			<b>Avant de désinstaller Peercoin Wallet</b> (ou d\'effacer les données de l\'appli/effacer les données de votre appareil), <b>transférez vos peercoins vers un autre portefeuille</b>.
+			<b>Avant de désinstaller EverGreenCoin Wallet</b> (ou d\'effacer les données de l\'appli/effacer les données de votre appareil), <b>transférez vos peercoins vers un autre portefeuille</b>.
 			Les peercoins restants seront perdus.
 		</p>
 		<p>

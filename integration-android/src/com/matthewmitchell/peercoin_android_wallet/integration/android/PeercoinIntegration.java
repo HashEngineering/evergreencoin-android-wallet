@@ -269,7 +269,7 @@ public final class PeercoinIntegration
 
 	private static void redirectToDownload(final Context context)
 	{
-		Toast.makeText(context, "No Peercoin application found.\nPlease install Peercoin Wallet.", Toast.LENGTH_LONG).show();
+		Toast.makeText(context, "No Peercoin application found.\nPlease install EverGreenCoin Wallet.", Toast.LENGTH_LONG).show();
 
 		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.matthewmitchell.peercoin_android_wallet"));
 		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/MatthewLM/peercoin-android-wallet"));

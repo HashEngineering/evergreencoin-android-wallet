@@ -70,7 +70,7 @@ import com.matthewmitchell.peercoin_android_wallet.util.CrashReporter;
 import com.matthewmitchell.peercoin_android_wallet.util.Io;
 import com.matthewmitchell.peercoin_android_wallet.util.LinuxSecureRandom;
 import com.matthewmitchell.peercoinj.shapeshift.ShapeShift;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -122,7 +122,7 @@ public class WalletApplication extends Application
             @Override
             public void uncaughtException(final Thread thread, final Throwable throwable)
             {
-                log.info("peercoinj uncaught exception", throwable);
+                log.info("evergreencoinj uncaught exception", throwable);
                 CrashReporter.saveBackgroundTrace(throwable, packageInfo);
             }
         };

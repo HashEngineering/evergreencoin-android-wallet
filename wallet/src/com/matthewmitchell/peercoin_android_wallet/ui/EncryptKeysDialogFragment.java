@@ -55,7 +55,7 @@ import android.widget.TextView;
 import com.google.protobuf.ByteString;
 
 import com.matthewmitchell.peercoin_android_wallet.WalletApplication;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

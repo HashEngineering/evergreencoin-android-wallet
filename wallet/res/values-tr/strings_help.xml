@@ -3,7 +3,7 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ekranın sol üst köşesi bakiyenizi Peercoin olarak ve seçilen bir para biriminde gösterir.
+			Ekranın sol üst köşesi bakiyenizi Evergreencoin olarak ve seçilen bir para biriminde gösterir.
 			Milli para birimleri listesine gitmek için dokununuz ve ardından herhangi bir para birimini varsayılan olarak seçmek için yine dokununuz.
 		</p>
 		<p>
@@ -17,7 +17,7 @@
 			Listeye filtre uygulamak için sağa ya da sola doğru kaydırınız.
 		</p>
 		<p>
-			Peercoin göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
+			Evergreencoin göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
 			Seçenekler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>
@@ -25,18 +25,18 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Peercoin talep edebilirsiniz (bu kişinin Peercoin Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden Evergreencoin talep edebilirsiniz (bu kişinin EverGreenCoin Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
-			İlk olarak talep edilen Peercoin miktarını girebilirsiniz.
+			İlk olarak talep edilen Evergreencoin miktarını girebilirsiniz.
 		</p>
 		<p>
 			Ardından ya diğer kişi tarafından taranacak bir QR code oluşturmanız,
 			ya da uzaktaki bir kişiye etkinlik çubuğunda paylaş düğmesiyle talebinizi göndermeniz gerekir.
-			Bu kişinin Peercoin bağlantısını tıklaması gerekecektir.
+			Bu kişinin Evergreencoin bağlantısını tıklaması gerekecektir.
 		</p>
 		<p>
-			Her durumda diğer kişiye Peercoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
+			Her durumda diğer kişiye Evergreencoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
 			Kabul ederse tüm yapması gereken muameleyi yollamaktır.
 		</p>
 	]]>
@@ -44,16 +44,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Peercoin gönderme prosedürünü başlattınız.
-			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Peercoin bağlantısına tıklayarak geldiniz.
+			Evergreencoin gönderme prosedürünü başlattınız.
+			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Evergreencoin bağlantısına tıklayarak geldiniz.
 		</p>
 		<p>
-			İlk olarak ödeme yapacağınız Peercoin adresini girmelisiniz.
+			İlk olarak ödeme yapacağınız Evergreencoin adresini girmelisiniz.
 			Adres defterinizde bilinen adreslere dayanılarak adres otomatik olarak tamamlanacaktır.
-			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Peercoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
+			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Evergreencoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
 		</p>
 		<p>
-			Bunun ardından o anda ne kadar Peercoin harcayabileceğinizi görüntüleyebilirsiniz.
+			Bunun ardından o anda ne kadar Evergreencoin harcayabileceğinizi görüntüleyebilirsiniz.
 			Varsa ana ekrandaki bakiye ile farklılıklar henüz teyit edilmemiştir ve dolayısıyla henüz harcanamaz.
 		</p>
 		<p>
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Peercoin Wallet uygulamasının sonraki açılışında gönderilir.
+			EverGreenCoin Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -74,20 +74,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Peercoinlerinizin güvenliği hakkında önemli noktalar:</b>
+			<b>Evergreencoinlerinizin güvenliği hakkında önemli noktalar:</b>
 		</p>
 		<p>
-			Peercoin cüzdanınızdaki Peercoinler cihazınızda saklanır.
-			<b>Cihazınızı kaybederseniz Peercoinlerinizi de kaybedersiniz.</b>
+			Evergreencoin cüzdanınızdaki Evergreencoinler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz Evergreencoinlerinizi de kaybedersiniz.</b>
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Peercoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Peercoinlerinizi başka bir cüzdana aktarınız</b>.
-			Kalan tüm Peercoinler kaybolacaktır.
+			<b>EverGreenCoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Evergreencoinlerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm Evergreencoinler kaybolacaktır.
 		</p>
 		<p>
 			<b>Muameleler geri alınamaz</b>.
-			Peercoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+			Evergreencoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
 		</p>
 		<p>
 			<b>Android cihazınızı güvenli kullanın!</b>
@@ -96,7 +96,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Peercoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>EverGreenCoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>
 	</string>

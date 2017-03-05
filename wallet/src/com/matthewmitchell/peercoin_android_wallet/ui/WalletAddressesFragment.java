@@ -61,7 +61,7 @@ import com.matthewmitchell.peercoin_android_wallet.util.BitmapFragment;
 import com.matthewmitchell.peercoin_android_wallet.util.Qr;
 import com.matthewmitchell.peercoin_android_wallet.util.WalletUtils;
 import com.matthewmitchell.peercoin_android_wallet.util.WholeStringBuilder;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
@@ -253,7 +253,7 @@ public final class WalletAddressesFragment extends FancyListFragment
 
 			private void handleCopyToClipboard(@Nonnull final Address address)
 			{
-				clipboardManager.setPrimaryClip(ClipData.newPlainText("Peercoin address", address.toString()));
+				clipboardManager.setPrimaryClip(ClipData.newPlainText("Evergreencoin address", address.toString()));
 				log.info("address copied to clipboard: {}", address.toString());
 				activity.toast(R.string.wallet_address_fragment_clipboard_msg);
 			}

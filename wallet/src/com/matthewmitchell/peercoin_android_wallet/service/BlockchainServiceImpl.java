@@ -95,7 +95,7 @@ import com.matthewmitchell.peercoin_android_wallet.ui.WalletActivity;
 import com.matthewmitchell.peercoin_android_wallet.util.CrashReporter;
 import com.matthewmitchell.peercoin_android_wallet.util.ThrottlingWalletChangeListener;
 import com.matthewmitchell.peercoin_android_wallet.util.WalletUtils;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 import static junit.framework.Assert.assertTrue;
 
@@ -133,7 +133,7 @@ public class BlockchainServiceImpl extends android.app.Service implements Blockc
     private boolean resetBlockchainOnShutdown = false;
 
     private final String backupDNS[] = new String[]{
-        "seed.peercoinexplorer.info"
+            "seed2.evergreencoin.org"
     };
 
     private static final int MIN_COLLECT_HISTORY = 2;

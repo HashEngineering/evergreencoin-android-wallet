@@ -2,9 +2,9 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>PPC, 8 Dezimalen</item>
-		<item>PPC, 6 Dezimalen</item>
-		<item>PPC, 4 Dezimalen</item>
+		<item>EVG, 8 Dezimalen</item>
+		<item>EVG, 6 Dezimalen</item>
+		<item>EVG, 4 Dezimalen</item>
 		<item>mPPC, 2 Dezimalen</item>
 		<item>µPPC, keine Dezimalen</item>
 	</string-array>

@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Horní levá část obrazovky zobrazuje Vaši aktuální Peercoin bilanci včetně odpovídající částky ve vaší lokální měně.
+			Horní levá část obrazovky zobrazuje Vaši aktuální Evergreencoin bilanci včetně odpovídající částky ve vaší lokální měně.
 			Kliknutím na částku přejdete do seznamu lokálních měn, kde si můžete vybrat jinou.
 		</p>
 		<p>
-			QR kód na pravé straně obsahuje Vaši Peercoin adresu a může být použita pro naskenování druhou stranou.
+			QR kód na pravé straně obsahuje Vaši Evergreencoin adresu a může být použita pro naskenování druhou stranou.
 			Klepněte na QR kód pro zobrazení větší verze.
 		</p>
 		<p>
@@ -17,7 +17,7 @@
 			Táhnutím vlevo či vpravo je možné aplikovat na seznam filtr.
 		</p>
 		<p>
-			Můžete poslat nebo si vyžádat Peercoiny klepnutím na patřičné tlačítko v akční nabídce.
+			Můžete poslat nebo si vyžádat Evergreencoiny klepnutím na patřičné tlačítko v akční nabídce.
 			Více možností je v nabídce nastavení.
 		</p>
 	]]>
@@ -25,10 +25,10 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Pomocí tohoto dialogu můžete vyžádat Peercoiny od někoho jiného (kdo by měl také mít nainstalovanou aplikaci Peercoin Wallet).
+			Pomocí tohoto dialogu můžete vyžádat Evergreencoiny od někoho jiného (kdo by měl také mít nainstalovanou aplikaci EverGreenCoin Wallet).
 		</p>
 		<p>
-			Nejprve zadejte množství Peercoinů, které chcete vyžádat.
+			Nejprve zadejte množství Evergreencoinů, které chcete vyžádat.
 		</p>
 		<p>
 			Potom můžete protistraně nabídnout vygenerovaný QR kód k oskenování,
@@ -36,7 +36,7 @@
 			Druhá strana potom klikne na získanou adresu.
 		</p>
 		<p>
-			V obou případech bude odesílatel uvidí dialog na zasílání Peercoinů s předvzplněnými údaji.
+			V obou případech bude odesílatel uvidí dialog na zasílání Evergreencoinů s předvzplněnými údaji.
 			Pokud souhlasí, potvrdí zadané informace a dojde k transakci.
 		</p>
 	]]>
@@ -44,7 +44,7 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Právě jste zahájil zasílání Peercoinů.
+			Právě jste zahájil zasílání Evergreencoinů.
 			Sem jste se musel dostat buď přes hlavní obrazovku aplikace, nebo pomocí klepnutí na speciální adresu v prohlížeči.
 		</p>
 		<p>
@@ -53,7 +53,7 @@
 			Můžete také naskenovat QR kód s adresou peněženky nebo požadavek na zaplacení stisknutím tlačítka s QR kódem.
 		</p>
 		<p>
-			V dalším kroku uvidíte, kolik Peercoinů můžete momentálně utratit.
+			V dalším kroku uvidíte, kolik Evergreencoinů můžete momentálně utratit.
 			Jakýkoliv rozdíl vůči zůstatku zobrazenému na výchozí obrazovce je stále nepotvrzen a tudíž nemůže být utracen.
 		</p>
 		<p>
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Transakce můžete provádět, i když jste právě offline.
-			Budou provedeny při dalším spuštění aplikace Peercoin Wallet.
+			Budou provedeny při dalším spuštění aplikace EverGreenCoin Wallet.
 			Pokud chcete transakci provést co nejrychleji, ujistěte se, že máte rychlé připojení (například jste připojeni pomocí bezdrátové sítě).
 		</p>
 		<p>
@@ -74,29 +74,29 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			Několik slov o bezpečnosti vašich Peercoinů:
+			Několik slov o bezpečnosti vašich Evergreencoinů:
 		</p>
 		<p>
-			Peercoiny v aplikaci Peercoin Wallet jsou uloženy ve vašem zařízení.
-			<b>Pokud o zařízení přijdete, přijdete i o Peercoiny v něm.</b>
+			Evergreencoiny v aplikaci EverGreenCoin Wallet jsou uloženy ve vašem zařízení.
+			<b>Pokud o zařízení přijdete, přijdete i o Evergreencoiny v něm.</b>
 			Stejně jako při ztrátě normální peněženky.
 		</p>
 		<p>
-			<b>Před odinstalací aplikace Peercoin Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
+			<b>Před odinstalací aplikace EverGreenCoin Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
 			Jakékoliv zůstavší Bitcony budou nenávratně ztraceny.
 		</p>
 		<p>
 			<b>Transakce nemohou být zrušeny</b>.
-			Pokud pošlete Peercoiny někam neznámo kam, neexistuje možnost, jak je získat zpět, jedině byste znali příjemce a on měl zrovna náladu je poctivě vrátit.
+			Pokud pošlete Evergreencoiny někam neznámo kam, neexistuje možnost, jak je získat zpět, jedině byste znali příjemce a on měl zrovna náladu je poctivě vrátit.
 		</p>
 		<p>
 			<b>Udržujte vašeho Androida v bezpečí!</b>
 			Instalujte pouze aplikace, kterým plně důvěřujete.
-			Existují škodlivé aplikace, které vás mohou o vaše Peercoiny připravit.
+			Existují škodlivé aplikace, které vás mohou o vaše Evergreencoiny připravit.
 		</p>
 		<p>
 			Neriskujte zbytečně!
-			<b>V aplikaci Peercoin Wallet mějte pouze malé částky</b> pro rychlé použití.
+			<b>V aplikaci EverGreenCoin Wallet mějte pouze malé částky</b> pro rychlé použití.
 		</p>
 	]]>
 	</string>

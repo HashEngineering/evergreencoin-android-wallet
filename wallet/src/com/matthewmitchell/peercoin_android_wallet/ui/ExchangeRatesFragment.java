@@ -57,7 +57,7 @@ import com.matthewmitchell.peercoin_android_wallet.WalletBalanceWidgetProvider;
 import com.matthewmitchell.peercoin_android_wallet.service.BlockchainState;
 import com.matthewmitchell.peercoin_android_wallet.service.BlockchainStateLoader;
 import com.matthewmitchell.peercoin_android_wallet.util.WholeStringBuilder;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

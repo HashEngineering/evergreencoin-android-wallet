@@ -134,7 +134,7 @@ import com.matthewmitchell.peercoin_android_wallet.ui.TransactionsListAdapter;
 import com.matthewmitchell.peercoin_android_wallet.util.Bluetooth;
 import com.matthewmitchell.peercoin_android_wallet.util.Nfc;
 import com.matthewmitchell.peercoin_android_wallet.util.WalletUtils;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import java.util.List;
 
 /**
@@ -2111,7 +2111,8 @@ public final class SendCoinsFragment extends Fragment
                     }else{
 
                         usingShapeShiftCoin = null;
-                        amountCalculatorLink.setPPCAmount(paymentIntent.getAmount());
+                        if(paymentIntent.getAmount() != null)
+                            amountCalculatorLink.setPPCAmount(paymentIntent.getAmount());
 
                         if (paymentIntent.isBluetoothPaymentUrl())
                             directPaymentEnableView.setChecked(bluetoothAdapter != null && bluetoothAdapter.isEnabled());

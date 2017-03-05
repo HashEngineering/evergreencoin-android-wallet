@@ -32,7 +32,7 @@ import android.text.style.ForegroundColorSpan;
 import android.view.View;
 import android.widget.RemoteViews;
 import com.matthewmitchell.peercoin_android_wallet.ExchangeRatesProvider.WalletExchangeRate;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import com.matthewmitchell.peercoin_android_wallet.ui.RequestCoinsActivity;
 import com.matthewmitchell.peercoin_android_wallet.ui.SendCoinsQrActivity;
 import com.matthewmitchell.peercoin_android_wallet.ui.WalletActivity;

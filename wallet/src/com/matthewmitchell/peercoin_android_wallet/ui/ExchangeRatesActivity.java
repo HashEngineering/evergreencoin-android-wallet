@@ -21,7 +21,7 @@ import android.app.ActionBar;
 import android.os.Bundle;
 
 import android.view.MenuItem;
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

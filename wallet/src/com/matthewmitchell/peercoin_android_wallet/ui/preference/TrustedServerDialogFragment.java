@@ -41,7 +41,7 @@ import com.matthewmitchell.peercoin_android_wallet.ui.DialogBuilder;
 import com.matthewmitchell.peercoin_android_wallet.ui.EncryptKeysDialogFragment;
 import com.matthewmitchell.peercoin_android_wallet.ui.ShowPasswordCheckListener;
 
-import com.matthewmitchell.peercoin_android_wallet.R;
+import hashengineering.evergreencoin.wallet.R;
 import java.net.URL;
 
 /**
