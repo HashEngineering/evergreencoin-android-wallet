@@ -10,3 +10,4 @@ target/
 Session.vim
 tags
 *.iml
+*.apk
